@@ -1,23 +1,27 @@
-## Hello, I'm Witalo 👋
-🇧🇷 Nature lover, food enthusiast, traveler, coder, and advocate for peace and positivity ✌️
-"Good vibes make life better!"
 
-AWS Cloud Engineer | SysAdmin | Windows Specialist
-Certified in:
+**AWS Cloud Engineer | Systems Administrator | Windows Specialist**  
+📍 Based in Brazil | 🌱 Nature Enthusiast | 🍽️ Food Lover | 🌍 Travel Buff
 
-AWS Solutions Architect
-AWS Systems Operator
-AWS Developer
-MCSA (2012/2016)
-LPI, CompTIA
-ESL (English Speaker)
-I’m passionate about designing and deploying cloud architectures, particularly within AWS. With expertise in scripting and automation, I believe the best way to grow and improve is by solving complex problems, deploying new architectures, and pursuing continuous learning through certifications. Delivering innovative services, solutions, and automation that bring tangible value to businesses is what drives me.
+## Profile Summary
+I am a certified AWS Cloud Engineer with a robust background in systems administration and Windows environments. My passion lies in designing and deploying scalable, efficient cloud architectures on AWS. I thrive on tackling complex challenges, automating processes, and delivering innovative solutions that drive operational excellence and business success. With a commitment to continuous learning and professional development, I stay at the forefront of emerging technologies and best practices.
 
-Outside of Work:
-I'm a devoted family man who loves spending quality time with my daughter and family. When I’m not working, you’ll find me enjoying sports like swimming, boxing, Rollerblading, and running. I also appreciate the quiet moments—connecting with nature, tasting good food, wine, and beer, and finding balance between activity and relaxation.
+## Certifications
+- AWS Solutions Architect
+- AWS Systems Operator
+- AWS Developer
+- Microsoft Certified Solutions Associate (MCSA) 2012/2016
+- Linux Professional Institute Certification (LPI)
+- CompTIA Certifications
 
-Life is about learning, growing, and finding joy in the little things.
+## Core Competencies
+- Cloud Architecture Design and Deployment
+- Scripting and Automation
+- Systems Administration and Optimization
+- Problem Solving and Analytical Thinking
+- Collaboration and Team Leadership
 
-You can find me on:
-[LinkedIn](<https://www.linkedin.com/in/witaloandrade/>)
+## Personal Philosophy
+I believe that fostering positive energy and maintaining good vibes enhances both personal and professional life. Outside of my technical pursuits, I cherish spending quality time with my family, particularly my daughter. I enjoy a variety of sports including swimming, boxing, and running, and I appreciate the balance of an active lifestyle with moments of relaxation and savoring great food and drinks.
 
+## Connect with Me
+I invite you to explore my professional journey and connect with me on [LinkedIn](<http://linkedin.com/in/witaloandrade/>). Let’s collaborate and innovate together!
