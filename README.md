@@ -6,9 +6,10 @@
 I am a certified AWS Cloud Engineer with a robust background in systems administration and Windows environments. My passion lies in designing and deploying scalable, efficient cloud architectures on AWS. I thrive on tackling complex challenges, automating processes, and delivering innovative solutions that drive operational excellence and business success. With a commitment to continuous learning and professional development, I stay at the forefront of emerging technologies and best practices.
 
 ## Certifications
-- AWS Solutions Architect
-- AWS Systems Operator
-- AWS Developer
+- AWS Certified DevOps Engineer - Professional Certification
+- AWS Certified Solutions Architect - Associate
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified Solutions Architect - Associate
 - Microsoft Certified Solutions Associate (MCSA) 2012/2016
 - Linux Professional Institute Certification (LPI)
 - CompTIA Certifications
